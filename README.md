@@ -1,5 +1,5 @@
 # Expressify
-HACK2TECHSUSTAIN - National Hackathon Project
+## HACK2TECHSUSTAIN - National Hackathon Project
 
 ## Synopsis -
 <hr>
@@ -24,8 +24,8 @@ Expressify the fullstack product conceived by a distinguished team that secured 
 
 ## Team Members - 
 <br>
-1)Kushagra purohit
+1.Kushagra purohit
 <br>
-2)Saket Gudimella
+2.Saket Gudimella
 <br>
-3)Anwin Sharon
+3.Anwin Sharon
