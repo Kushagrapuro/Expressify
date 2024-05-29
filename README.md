@@ -3,7 +3,7 @@
 > ## HACK2TECHSUSTAIN - National Hackathon Project
 
 ## GDrive Download Link - 
-> [!NOTE]
+> [!LINK]
 > https://drive.google.com/file/d/1AVJe_YZw7cm6SI8vowSGi9AuU93ZP6mr/view?usp=sharing
 
 
