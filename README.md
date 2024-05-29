@@ -8,11 +8,11 @@ Expressify the fullstack product conceived by a distinguished team that secured 
 
 ## Notable Attributes - 
 <br>
-- Advanced Model Integration: Expressify integrates a finely tuned OpenAI Wisper model, meticulously calibrated to ensure seamless communication in three distinct languages, catering to diverse linguistic needs with precision.
+- Advanced Model Integration: Expressify integrates a finely tuned OpenAI Wisper model to ensure seamless communication in three distinct languages.
 <br>
-- Structured Practice Sessions: Designed to facilitate proficiency and ease of use, Expressify offers structured practice sessions, empowering users to master the platform's functionalities and enhance their communication skills.
+- Structured Practice Sessions: Designed to facilitate proficiency and ease of use, empowering users to enhance their communication skills.
 <br>
-- Innovative Sign Language Conversion: Leveraging cutting-edge technology, Expressify employs MediaPipe to convert sign language into speech with remarkable accuracy, utilizing LSTM for Indian Sign Language (ISL), American Sign Language (ASL), and custom gestures tailored to individual users' needs.
+- Innovative Sign Language Conversion: Leveraging cutting-edge technology of mediapipe, Expressify employs MediaPipe to convert sign language into speech with remarkable accuracy, utilizing LSTM for Indian Sign Language (ISL), American Sign Language (ASL), and custom gestures tailored to individual users' needs.
 <br>
 - Future Community Integration: As part of its forward-looking approach, Expressify aims to establish a thriving community around its platform, fostering collaboration, support, and inclusivity. This vision includes the integration of chat functionalities to facilitate real-time communication and interaction among users.
 
