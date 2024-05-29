@@ -24,7 +24,7 @@ Expressify the fullstack product conceived by a distinguished team that secured 
 - Mediapipe (ASL,ISL,Custom Gestures)
 
 ## Team Members - 
-<br>
+
 1.Kushagra purohit
 <br>
 2.Saket Gudimella
