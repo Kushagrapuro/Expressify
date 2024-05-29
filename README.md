@@ -18,9 +18,9 @@ Expressify the fullstack product conceived by a distinguished team that secured 
 
 ## Technological Framework -
 <br>
-- React Native
-- Python,Fast API
-- Finetuned Wisper Model
+- React Native<br>
+- Python,Fast API<br>
+- Finetuned Wisper Model<br>
 - Mediapipe (ASL,ISL,Custom Gestures)
 
 ## Team Members - 
