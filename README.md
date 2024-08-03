@@ -1,6 +1,6 @@
 # Expressify
 
-> ## HACK2TECHSUSTAIN - National Hackathon Project
+> ## HACK2TECHSUSTAIN - National Hackathon Project (Secured 2nd Place)
 
 > [!NOTE]  
 > GDrive Download Link -
