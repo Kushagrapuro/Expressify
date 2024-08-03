@@ -6,6 +6,10 @@
 > GDrive Download Link -
 > https://drive.google.com/file/d/1AVJe_YZw7cm6SI8vowSGi9AuU93ZP6mr/view?usp=sharing
 
+> [!NOTE]  
+> GDrive Video/Images Link -
+> https://drive.google.com/drive/folders/1PncpISd_zrKlWTWEHeUri4A3Y800tzxt
+
 
 ## Synopsis -
 
