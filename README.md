@@ -17,20 +17,20 @@ Expressify the fullstack product conceived by a distinguished team that secured 
 
 ## Notable Attributes - 
 <br>
-- Advanced Model Integration: Expressify integrates a finely tuned OpenAI Wisper model to ensure seamless communication in three distinct languages.
+-> Advanced Model Integration: Expressify integrates a finely tuned OpenAI Wisper model to ensure seamless communication in three distinct languages.
 <br>
-- Structured Practice Sessions: Designed to facilitate proficiency and ease of use, empowering users to enhance their communication skills.
+-> Structured Practice Sessions: Designed to facilitate proficiency and ease of use, empowering users to enhance their communication skills.
 <br>
-- Innovative Sign Language Conversion: Leveraging cutting-edge technology of mediapipe, Expressify employs MediaPipe to convert sign language into speech with remarkable accuracy, utilizing LSTM for Indian Sign Language (ISL), American Sign Language (ASL), and custom gestures tailored to individual users' needs.
+-> Innovative Sign Language Conversion: Leveraging cutting-edge technology of mediapipe, Expressify employs MediaPipe to convert sign language into speech with remarkable accuracy, utilizing LSTM for Indian Sign Language (ISL), American Sign Language (ASL), and custom gestures tailored to individual users' needs.
 <br>
-- Future Community Integration: As part of its forward-looking approach, Expressify aims to establish a thriving community around its platform, fostering collaboration, support, and inclusivity. This vision includes the integration of chat functionalities to facilitate real-time communication and interaction among users.
+-> Future Community Integration: As part of its forward-looking approach, Expressify aims to establish a thriving community around its platform, fostering collaboration, support, and inclusivity. This vision includes the integration of chat functionalities to facilitate real-time communication and interaction among users.
 
 ## Technological Framework -
 <br>
-- React Native<br>
-- Python,Fast API<br>
-- Finetuned Wisper Model<br>
-- Mediapipe (ASL,ISL,Custom Gestures)
+-> React Native<br>
+-> Python,Fast API<br>
+-> Finetuned Wisper Model<br>
+-> Mediapipe (ASL,ISL,Custom Gestures)
 
 ## Team Members - 
 
